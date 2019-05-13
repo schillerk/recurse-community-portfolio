@@ -1,8 +1,8 @@
 # Recurse Center Community Portfolio
 
-Discover all the things Recursers have built!
 
 The Recurse Center Community Portfolio
+eee
 is a website dedicated to
 showcasing work done by attendees of
 the [Recurse Center](https://www.recurse.com).
